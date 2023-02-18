@@ -8,7 +8,7 @@
 
 Pod::Spec.new do |s|
   s.name             = 'CINetworkingSDK'
-  s.version          = '0.1.12'
+  s.version          = '0.1.13'
   s.summary          = 'A short description of CINetworking.'
 
 # This description is used to generate tags and improve search results.
@@ -29,7 +29,6 @@ TODO: Add long description of the pod here.
   s.ios.deployment_target = '13.0'
   s.pod_target_xcconfig = { 'EXCLUDED_ARCHS[sdk=iphonesimulator*]' => 'arm64' }
   s.user_target_xcconfig = { 'EXCLUDED_ARCHS[sdk=iphonesimulator*]' => 'arm64' }
-  s.static_framework = true
   
   s.vendored_frameworks = "CINetworking/CINetworkingSDK.framework"
 
