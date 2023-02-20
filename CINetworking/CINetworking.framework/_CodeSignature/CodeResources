@@ -16,10 +16,6 @@
 		<data>
 		l7Z31p0Mdn5ScyOKqTQQJtFIPtQ=
 		</data>
-		<key>Headers/CINetworkingSDK.h</key>
-		<data>
-		KMJeRuluhVgFKips9A+TMAVnUYw=
-		</data>
 		<key>Headers/CISecurityPolicy.h</key>
 		<data>
 		Q+H6hv0zQQZyL/eQmoynshm6Oyc=
@@ -34,11 +30,11 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		9r7MKyoezF7owvmLBxQgT0IcItg=
+		xianWQ6xShgwHmE45Jjx0H7iyVA=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
-		ldNavkofqtLiOuI45QB+plpYL4c=
+		7AgsuJrL+Ekwo4v3/VUMiamvbFU=
 		</data>
 	</dict>
 	<key>files2</key>
@@ -74,17 +70,6 @@
 			<key>hash2</key>
 			<data>
 			vz1tTqObzgWBIAIO26350jK7947ZYO0/e+2tuoMtBpY=
-			</data>
-		</dict>
-		<key>Headers/CINetworkingSDK.h</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			KMJeRuluhVgFKips9A+TMAVnUYw=
-			</data>
-			<key>hash2</key>
-			<data>
-			b5E7T114fhEuMU/usxGZyZf59hDM7t7cGJuHdQ1Ws/Y=
 			</data>
 		</dict>
 		<key>Headers/CISecurityPolicy.h</key>
@@ -124,11 +109,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			ldNavkofqtLiOuI45QB+plpYL4c=
+			7AgsuJrL+Ekwo4v3/VUMiamvbFU=
 			</data>
 			<key>hash2</key>
 			<data>
-			CcqiKqbsDJm32atReO4ETfr3i3QQ/gQx0vCPEPIiWss=
+			2jZvQJI+pOqvefOaOOT9O/RuH+s9SeqdMtc4ytJz+u8=
 			</data>
 		</dict>
 	</dict>

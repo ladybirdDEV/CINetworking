@@ -1,6 +1,0 @@
-framework module CINetworkingSDK {
-  umbrella header "CINetworkingSDK.h"
-
-  export *
-  module * { export * }
-}

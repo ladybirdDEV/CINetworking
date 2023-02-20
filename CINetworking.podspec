@@ -1,5 +1,5 @@
 #
-# Be sure to run `pod lib lint CINetworkingSDK.podspec' to ensure this is a
+# Be sure to run `pod lib lint CINetworking.podspec' to ensure this is a
 # valid spec before submitting.
 #
 # Any lines starting with a # are optional, but their use is encouraged
@@ -7,8 +7,8 @@
 #
 
 Pod::Spec.new do |s|
-  s.name             = 'CINetworkingSDK'
-  s.version          = '0.1.14'
+  s.name             = 'CINetworking'
+  s.version          = '0.1.15'
   s.summary          = 'A short description of CINetworking.'
 
 # This description is used to generate tags and improve search results.
@@ -32,7 +32,7 @@ TODO: Add long description of the pod here.
   s.pod_target_xcconfig = { 'EXCLUDED_ARCHS[sdk=iphonesimulator*]' => 'arm64' }
   s.user_target_xcconfig = { 'EXCLUDED_ARCHS[sdk=iphonesimulator*]' => 'arm64' }
   
-  s.vendored_frameworks = "CINetworking/CINetworkingSDK.framework"
+  s.vendored_frameworks = "CINetworking/CINetworking.framework"
 
   s.dependency 'AFNetworking'
   s.dependency 'CocoaLumberjack'
